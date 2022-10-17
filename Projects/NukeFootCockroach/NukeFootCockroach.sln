@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NukeFootCockroach", "NukeFootCockroach\NukeFootCockroach.csproj", "{91B96801-E2C4-4B74-94A0-70DDCCF12F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B96801-E2C4-4B74-94A0-70DDCCF12F97}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{91B96801-E2C4-4B74-94A0-70DDCCF12F97}.Debug|anycpu.Build.0 = Debug|anycpu
+		{91B96801-E2C4-4B74-94A0-70DDCCF12F97}.Release|anycpu.ActiveCfg = Release|anycpu
+		{91B96801-E2C4-4B74-94A0-70DDCCF12F97}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
